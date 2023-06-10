@@ -13,7 +13,6 @@ By combining sentimental analysis of news headlines with numerical analysis of p
 ## EDA and Pre-processing
 1. Renaming the columns and Removing unwanted columns
 2. Changing type of 'Date' from object to datetime64[ns]
-3. 
 
 ### Time series analysis is performed on the Stock data
 1. Analysing the rolling mean and rolling standard deviation for the *Closing Price*
